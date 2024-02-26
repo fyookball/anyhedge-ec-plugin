@@ -1,0 +1,11 @@
+{
+    "display_name": "Anyhedge",
+    "version": "1.0",
+    "description": "Anyhedge Proof of Concept",
+    "project_url": "https://electroncash.org/",
+    "minimum_ec_version": "4.0",
+    "package_name": "anyhedge",
+    "available_for": [
+        "qt"
+    ]
+}
